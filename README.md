@@ -1,14 +1,19 @@
 # Optimizing Product Strategy at Maven Market: A Data-Driven Approach
 
-## Dashboard Overview:
+## Dashboard
+
+### Overview
 ![](image.png)
 
-## Objectives:
+### Basket Analysis
+![](Basket_Analysis.png)
+
+## Objectives
 
 * Tracking key performance indicators (KPIs) like transactions, profit, revenue, and returns over time, analyzing over 269,000 transactions from a two-year period of Maven Market sales. 
 * Using the data mining technique, predictive basket analysis, to analyze patterns of co-occurrence and determine the strength of the link between products purchased together, then suggesting combinations of products to evaluate cross-sell, recommendation system.
 
-## Data Source:
+## Data Source
 
 The Maven Market dataset is associated with a multinational grocery chain that has locations in Canada, Mexico, and the United States. It serves as a resource for various business intelligence projects and data analytics tasks. The dataset encompasses various aspects of the grocery chain's operations, including transactions, customer data, product information, and financial metrics.
 
@@ -22,26 +27,26 @@ More specifically, the dataset includes:
 * MavenMarket_Transactions_1997.csv
 * MavenMarket_Transactions_1998.csv
 
-## Tools and Techniques:
+## Tools and Techniques
 
-### Data Preprocessing and Cleaning
+### 1. Data Preprocessing and Cleaning
 Power Query Editor for organizing and cleaning the dataset.
 
-### Predictive Basket Analysis
+### 2. Predictive Basket Analysis
 Employed advanced analytical methods using DAX measures to identify patterns and relationships between different products purchased together.
 
-### Data Visualization
+### 3. Data Visualization
 Power BI for creating interactive dashboards and visualizations.
 
-## Process:
+## Process
 
-### Data Collection and Integration
+### 1. Data Collection and Integration
 Gather data from the Maven Market dataset, which includes details about transactions, products, customer demographics, etc.
 
-### Data Cleaning and Preprocessing
+### 2. Data Cleaning and Preprocessing
 Normalize and standardize the data to ensure consistency, especially if data from multiple sources are combined.
 
-### Basket Analysis
+### 3. Basket Analysis
 Calculate metrics such as support, confidence, and lift to evaluate the strength of these associations.
 * Find the number of orders containing Product 1 
 ```DAX
