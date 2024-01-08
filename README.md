@@ -1,5 +1,8 @@
 # Optimizing Product Strategy at Maven Market: A Data-Driven Approach
 
+## Dashboard Overview:
+![](image.png)
+
 ## Objectives:
 
 * Tracking key performance indicators (KPIs) like transactions, profit, revenue, and returns over time, analyzing over 269,000 transactions from a two-year period of Maven Market sales. 
