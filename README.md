@@ -3,7 +3,7 @@
 ## Dashboard
 
 ### Overview
-![](image.png)
+![](Overview_Dashboard.png)
 
 ### Basket Analysis
 ![](Basket_Analysis.png)
